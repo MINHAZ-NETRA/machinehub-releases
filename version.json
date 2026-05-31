@@ -1,0 +1,7 @@
+{
+  "latest_version" : 5,
+  "version_name"   : "5.0",
+  "force_update"   : true,
+  "update_url"     : "https://github.com/MINHAZ-NETRA/machinehub-releases/releases/latest/download/app-release.apk",
+  "changelog"      : "• ઓર્ડર કાર્ડ ડિઝાઇન સુધારી\n• ઓર્ડર હવે દિવસ પ્રમાણે ગોઠવાય છે\n• Bug fixes"
+}
